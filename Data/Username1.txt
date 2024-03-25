@@ -1,0 +1,17 @@
+13.7.2022
+household:True:sdfsdfs
+!
+14.7.2022
+studying:True:fd
+studying:False:etgrhry
+!
+15.7.2022
+!
+16.7.2022
+!
+17.7.2022
+!
+18.7.2022
+!
+19.7.2022
+!

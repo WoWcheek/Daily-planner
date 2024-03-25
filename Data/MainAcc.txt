@@ -1,0 +1,22 @@
+11.6.2022
+household:False:Make a pie
+other:False:Watch a movie
+business:True:Write a report
+!
+12.6.2022
+studying:True:Do homework
+!
+13.6.2022
+other:True:Go to a shop
+!
+14.6.2022
+other:False:watch a movie
+studying:False:read a book
+!
+15.6.2022
+business:False:Visit a meeting
+!
+16.6.2022
+!
+17.6.2022
+!

@@ -1,0 +1,17 @@
+23.1.2024
+studying:True:Do step hw
+!
+24.1.2024
+studying:False:asdassad
+household:False:asdasda
+!
+25.1.2024
+!
+26.1.2024
+!
+27.1.2024
+!
+28.1.2024
+!
+29.1.2024
+!
